@@ -1,0 +1,37 @@
+h1{
+text-align: center;
+color: rgb(0, 0, 0);
+}
+
+.hiring {
+    background: url(../images/hiring.jpg) no-repeat;
+    background-size: cover;
+    height: 50vh;
+    min-height: 100px;
+    color: rgb(166, 49, 23);
+    font-size: xx-large;
+}
+
+h2{
+    text-align: center;
+color: rgb(18, 142, 57);
+}
+
+.card{
+    width: 50px;
+}
+
+.lista-novedades { 
+    margin: 0;
+    padding: 0;
+    list-style: symbols();
+}
+
+.mapa iframe {
+    width: 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
